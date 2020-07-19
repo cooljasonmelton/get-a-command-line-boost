@@ -1,3 +1,7 @@
+def print_letter(letter)
+    letter.each{ |l| puts l.chomp}
+end
+
 letter_a1 = <<-a
 ░█████╗░
 a
@@ -144,14 +148,39 @@ letter_g6 = <<-g
 g
 
 letter_g = [letter_g1, letter_g2, letter_g3, letter_g4,letter_g5, letter_g6]
-letter_g.each{ |g| puts g.chomp}
+print_letter(letter_g)
+
+
+letter_b1 = <<-B
+██████╗░
+B
+letter_b2 = <<-B
+██╔══██╗
+B
+letter_b3 = <<-B
+██████╦╝
+B
+letter_b4 = <<-B
+██╔══██╗
+B
+letter_b5 = <<-B
+██████╦╝
+B
+letter_b6 = <<-B
+╚═════╝░
+B
+
+letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
 
 
 
 
-
-
-
+██╗░░██╗
+██║░░██║
+███████║
+██╔══██║
+██║░░██║
+╚═╝░░╚═╝
 
 letter_b1 = <<-B
 ██████╗░
@@ -446,28 +475,6 @@ letter_b6 = <<-B
 B
 
 letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
-
-letter_b1 = <<-B
-██████╗░
-B
-letter_b2 = <<-B
-██╔══██╗
-B
-letter_b3 = <<-B
-██████╦╝
-B
-letter_b4 = <<-B
-██╔══██╗
-B
-letter_b5 = <<-B
-██████╦╝
-B
-letter_b6 = <<-B
-╚═════╝░
-B
-
-letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
-
 
 
 
