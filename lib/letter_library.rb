@@ -1,5 +1,19 @@
-letter_a
-letter_b
+letter_a = <<-A
+░█████╗░
+██╔══██╗
+███████║
+██╔══██║
+██║░░██║
+╚═╝░░╚═╝
+A
+letter_b = <<-B
+██████╗░
+██╔══██╗
+██████╦╝
+██╔══██╗
+██████╦╝
+╚═════╝░
+B
 letter_c
 letter_d
 letter_e
@@ -24,3 +38,7 @@ letter_w
 letter_x
 letter_y
 letter_z
+
+
+p letter_a
+p letter_b
