@@ -51,3 +51,11 @@ FRAME6
 #     puts f 
 #     sleep(0.3)
 # end 
+
+
+# example of how to print letters next to each other
+# i = 0
+# while i < letter_a.length do 
+#     puts letter_a[i].chomp + letter_b[i].chomp
+#     i += 1
+# end  
