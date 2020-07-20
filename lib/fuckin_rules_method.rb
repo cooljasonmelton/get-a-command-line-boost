@@ -3,7 +3,7 @@ require_relative './fuckin_rules_library.rb'
 def play_fuckin_rules
     # flashes FUCKIN four times
     i = 0
-    while i < 4 do
+    while i < 3 do
         puts "\e[H\e[2J" 
         puts letter_fuckin
         sleep(0.3)
@@ -14,7 +14,7 @@ def play_fuckin_rules
     end
     # flashes RULES four times
     j = 0
-    while j < 4 do
+    while j < 3 do
         puts "\e[H\e[2J"
         puts letter_rules
         sleep(0.3)
