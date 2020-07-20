@@ -54,11 +54,9 @@ def blankify_name(name)
     letterify_name(blank_name)   
 end
 
-
-
 # bring it all together and insert gets to get name string
 def play_name_animation(name)
-    4.times do |i|
+    3.times do |i|
         puts "\e[H\e[2J" 
         letterify_name(name)
         sleep(0.3)
