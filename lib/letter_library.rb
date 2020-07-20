@@ -467,8 +467,116 @@ v
 
 letter_v = [letter_v1, letter_v2, letter_v3, letter_v4,letter_v5, letter_v6]
 
+letter_w1 = <<-w
+░██╗░░░░░░░██╗
+w
+letter_w2 = <<-w
+░██║░░██╗░░██║
+w
+letter_w3 = <<-w
+░╚██╗████╗██╔╝
+w
+letter_w4 = <<-w
+░░████╔═████║░
+w
+letter_w5 = <<-w
+░░╚██╔╝░╚██╔╝░
+w
+letter_w6 = <<-w
+░░░╚═╝░░░╚═╝░░
+w
 
+letter_w = [letter_w1, letter_w2, letter_w3, letter_w4,letter_w5, letter_w6]
 
+letter_x1 = <<-x
+██╗░░██╗
+x
+letter_x2 = <<-x
+╚██╗██╔╝
+x
+letter_x3 = <<-x
+░╚███╔╝░
+x
+letter_x4 = <<-x
+░██╔██╗░
+x
+letter_x5 = <<-x
+██╔╝╚██╗
+x
+letter_x6 = <<-x
+╚═╝░░╚═╝
+x
+
+letter_x = [letter_x1, letter_x2, letter_x3, letter_x4,letter_x5, letter_x6]
+
+letter_y1 = <<-y
+██╗░░░██╗
+y
+letter_y2 = <<-y
+╚██╗░██╔╝
+y
+letter_y3 = <<-y
+░╚████╔╝░
+y
+letter_y4 = <<-y
+░░╚██╔╝░░
+y
+letter_y5 = <<-y
+░░░██║░░░
+y
+letter_y6 = <<-y
+░░░╚═╝░░░
+y
+
+letter_y = [letter_y1, letter_y2, letter_y3, letter_y4,letter_y5, letter_y6]
+
+letter_z1 = <<-z
+███████╗
+z
+letter_z2 = <<-z
+╚════██║
+z
+letter_z3 = <<-z
+░░███╔═╝
+z
+letter_z4 = <<-z
+██╔══╝░░
+z
+letter_z5 = <<-z
+███████╗
+z
+letter_z6 = <<-z
+╚══════╝
+z
+
+letter_z = [letter_z1, letter_z2, letter_z3, letter_z4,letter_z5, letter_z6]
+
+print_letter(letter_a)
+print_letter(letter_b)
+print_letter(letter_c)
+print_letter(letter_d)
+print_letter(letter_e)
+print_letter(letter_f)
+print_letter(letter_g)
+print_letter(letter_h)
+print_letter(letter_i)
+print_letter(letter_j)
+print_letter(letter_k)
+print_letter(letter_l)
+print_letter(letter_m)
+print_letter(letter_n)
+print_letter(letter_o)
+print_letter(letter_p)
+print_letter(letter_q)
+print_letter(letter_r)
+print_letter(letter_s)
+print_letter(letter_t)
+print_letter(letter_u)
+print_letter(letter_v)
+print_letter(letter_w)
+print_letter(letter_x)
+print_letter(letter_y)
+print_letter(letter_z)
 
 
 
