@@ -48,7 +48,23 @@ def letterify_name(name)
 end
 
 def blankify_name(name)
-    blankify = ""
-    name.length.times {|i| blankify += letter_space}
-    puts blankify
+    # create string of spaces length of name
+    blank_name = ""
+    name.length.times {|i| blank_name += " " } 
+    letterify_name(blank_name)   
+end
+
+
+
+# bring it all together and insert gets to get name string
+def play_name_animation(name)
+    4.times do |i|
+        puts "\e[H\e[2J" 
+        letterify_name(name)
+        sleep(0.3)
+        puts "\e[H\e[2J" 
+        blankify_name(name)
+        sleep(0.3)
+    end
 end 
+
