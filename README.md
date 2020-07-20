@@ -13,6 +13,16 @@ git clone git@github.com:cooljasonmelton/get-a-command-line-boost.git
 ```
 * open directory and install dependencies 
 ```
-ruby -v
+bundle install
 ```
+* run program
+```
+ruby run.rb
+```
+* answer question when prompted
 
+## built with
+* Ruby
+
+## built by
+Jason Melton
