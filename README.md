@@ -1,6 +1,6 @@
 # Get A Command Line Boost
 
-* warning: f word 
+<i> warning: f word </i>
 
 ## How to:
 If you're having a bad day or just want a better day, do this:
