@@ -572,3 +572,24 @@ def letter_z
     [letter_z1, letter_z2, letter_z3, letter_z4,letter_z5, letter_z6]
 end
 
+def letter_space
+    letter_space1 = <<-space
+    ░░░░░░░░
+    space
+    letter_space2 = <<-space
+    ░░░░░░░░
+    space
+    letter_space3 = <<-space
+    ░░░░░░░░
+    space
+    letter_space4 = <<-space
+    ░░░░░░░░
+    space
+    letter_space5 = <<-space
+    ░░░░░░░░
+    space
+    letter_space6 = <<-space
+    ░░░░░░░░
+    space
+    [letter_space1, letter_space2, letter_space3, letter_space4,letter_space5, letter_space6]
+end
