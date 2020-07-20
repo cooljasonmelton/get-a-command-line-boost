@@ -47,5 +47,8 @@ def letterify_name(name)
     end
 end
 
-def blankify_name
+def blankify_name(name)
+    blankify = ""
+    name.length.times {|i| blankify += letter_space}
+    puts blankify
 end 
