@@ -1,8 +1,6 @@
 require "tty-prompt"
 
 
-def get_name
-end 
 
 
 

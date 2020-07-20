@@ -148,165 +148,162 @@ letter_g6 = <<-g
 g
 
 letter_g = [letter_g1, letter_g2, letter_g3, letter_g4,letter_g5, letter_g6]
-print_letter(letter_g)
 
-
-letter_b1 = <<-B
-██████╗░
-B
-letter_b2 = <<-B
-██╔══██╗
-B
-letter_b3 = <<-B
-██████╦╝
-B
-letter_b4 = <<-B
-██╔══██╗
-B
-letter_b5 = <<-B
-██████╦╝
-B
-letter_b6 = <<-B
-╚═════╝░
-B
-
-letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
-
-
-
-
+letter_h1 = <<-h
 ██╗░░██╗
+h
+letter_h2 = <<-h
 ██║░░██║
+h
+letter_h3 = <<-h
 ███████║
+h
+letter_h4 = <<-h
 ██╔══██║
+h
+letter_h5 = <<-h
 ██║░░██║
+h
+letter_h6 = <<-h
 ╚═╝░░╚═╝
+h
 
-letter_b1 = <<-B
-██████╗░
-B
-letter_b2 = <<-B
-██╔══██╗
-B
-letter_b3 = <<-B
-██████╦╝
-B
-letter_b4 = <<-B
-██╔══██╗
-B
-letter_b5 = <<-B
-██████╦╝
-B
-letter_b6 = <<-B
-╚═════╝░
-B
+letter_h = [letter_h1, letter_h2, letter_h3, letter_h4,letter_h5, letter_h6]
 
-letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
+letter_i1 = <<-i
+██╗
+i
+letter_i2 = <<-i
+██║
+i
+letter_i3 = <<-i
+██║
+i
+letter_i4 = <<-i
+██║
+i
+letter_i5 = <<-i
+██║
+i
+letter_i6 = <<-i
+╚═╝
+i
 
-letter_b1 = <<-B
-██████╗░
-B
-letter_b2 = <<-B
-██╔══██╗
-B
-letter_b3 = <<-B
-██████╦╝
-B
-letter_b4 = <<-B
-██╔══██╗
-B
-letter_b5 = <<-B
-██████╦╝
-B
-letter_b6 = <<-B
-╚═════╝░
-B
+letter_i = [letter_i1, letter_i2, letter_i3, letter_i4,letter_i5, letter_i6]
 
-letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
+letter_j1 = <<-j
+░░░░░██╗
+j
+letter_j2 = <<-j
+░░░░░██║
+j
+letter_j3 = <<-j
+░░░░░██║
+j
+letter_j4 = <<-j
+██╗░░██║
+j
+letter_j5 = <<-j
+╚█████╔╝
+j
+letter_j6 = <<-j
+░╚════╝░
+j
 
-letter_b1 = <<-B
-██████╗░
-B
-letter_b2 = <<-B
-██╔══██╗
-B
-letter_b3 = <<-B
-██████╦╝
-B
-letter_b4 = <<-B
-██╔══██╗
-B
-letter_b5 = <<-B
-██████╦╝
-B
-letter_b6 = <<-B
-╚═════╝░
-B
+letter_j = [letter_j1, letter_j2, letter_j3, letter_j4,letter_j5, letter_j6]
 
-letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
 
-letter_b1 = <<-B
-██████╗░
-B
-letter_b2 = <<-B
-██╔══██╗
-B
-letter_b3 = <<-B
-██████╦╝
-B
-letter_b4 = <<-B
-██╔══██╗
-B
-letter_b5 = <<-B
-██████╦╝
-B
-letter_b6 = <<-B
-╚═════╝░
-B
+letter_k1 = <<-k
+██╗░░██╗
+k
+letter_k2 = <<-k
+██║░██╔╝
+k
+letter_k3 = <<-k
+█████═╝░
+k
+letter_k4 = <<-k
+██╔═██╗░
+k
+letter_k5 = <<-k
+██║░╚██╗
+k
+letter_k6 = <<-k
+╚═╝░░╚═╝
+k
 
-letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
+letter_k = [letter_k1, letter_k2, letter_k3, letter_k4,letter_k5, letter_k6]
 
-letter_b1 = <<-B
-██████╗░
-B
-letter_b2 = <<-B
-██╔══██╗
-B
-letter_b3 = <<-B
-██████╦╝
-B
-letter_b4 = <<-B
-██╔══██╗
-B
-letter_b5 = <<-B
-██████╦╝
-B
-letter_b6 = <<-B
-╚═════╝░
-B
 
-letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
+letter_l1 = <<-l
+██╗░░░░░
+l
+letter_l2 = <<-l
+██║░░░░░
+l
+letter_l3 = <<-l
+██║░░░░░
+l
+letter_l4 = <<-l
+██║░░░░░
+l
+letter_l5 = <<-l
+███████╗
+l
+letter_l6 = <<-l
+╚══════╝
+l
 
-letter_b1 = <<-B
-██████╗░
-B
-letter_b2 = <<-B
-██╔══██╗
-B
-letter_b3 = <<-B
-██████╦╝
-B
-letter_b4 = <<-B
-██╔══██╗
-B
-letter_b5 = <<-B
-██████╦╝
-B
-letter_b6 = <<-B
-╚═════╝░
-B
+letter_l = [letter_l1, letter_l2, letter_l3, letter_l4,letter_l5, letter_l6]
 
-letter_b = [letter_b1, letter_b2, letter_b3, letter_b4,letter_b5, letter_b6]
+letter_m1 = <<-m
+███╗░░░███╗
+m
+letter_m2 = <<-m
+████╗░████║
+m
+letter_m3 = <<-m
+██╔████╔██║
+m
+letter_m4 = <<-m
+██║╚██╔╝██║
+m
+letter_m5 = <<-m
+██║░╚═╝░██║
+m
+letter_m6 = <<-m
+╚═╝░░░░░╚═╝
+m
+
+letter_m = [letter_m1, letter_m2, letter_m3, letter_m4,letter_m5, letter_m6]
+
+letter_n1 = <<-n
+███╗░░██╗
+n
+letter_n2 = <<-n
+████╗░██║
+n
+letter_n3 = <<-n
+██╔██╗██║
+n
+letter_n4 = <<-n
+██║╚████║
+n
+letter_n5 = <<-n
+██║░╚███║
+n
+letter_n6 = <<-n
+╚═╝░░╚══╝
+n
+
+letter_n = [letter_n1, letter_n2, letter_n3, letter_n4,letter_n5, letter_n6]
+
+print_letter(letter_k)
+print_letter(letter_l)
+print_letter(letter_m)
+print_letter(letter_n)
+
+
 
 letter_b1 = <<-B
 ██████╗░
